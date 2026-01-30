@@ -1,4 +1,4 @@
-# 🤖 Streamlit Chatbot using OpenAI API
+#  Streamlit Chatbot using OpenAI API
 
 This is a simple ChatGPT-style chatbot built with:
 
