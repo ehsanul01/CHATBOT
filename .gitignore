@@ -1,0 +1,15 @@
+# Ignore environment variables
+.env
+
+# Ignore virtual environment
+venv/
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore Streamlit secrets
+.streamlit/
+
+# Mac files
+.DS_Store
