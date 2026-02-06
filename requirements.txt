@@ -1,3 +1,7 @@
 streamlit
 openai
 python-dotenv
+firebase-admin
+streamlit-authenticator
+bcrypt
+google-auth
