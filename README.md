@@ -9,3 +9,7 @@ This is a simple ChatGPT-style chatbot built with:
 It allows users to chat in a clean web interface, similar to ChatGPT.
 
 Im Stil Working On To make  public for everything, currenly No store data or History. 
+
+
+# Currenly
+working on the login page and ui
